@@ -26,7 +26,7 @@ assignees: ''
 - 代币符号 —— 
 - 官网链接 —— 
 - 所属网络 —— 
-- Token Addres —— 
+- Token Address —— 
 - coingecko 链接 —— 
 
 ## Shill 理由
