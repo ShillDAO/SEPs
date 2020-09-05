@@ -23,11 +23,11 @@ assignees: ''
 ### 项目信息
 
 - 项目名称 —— 
-- 代币符号 ——
-- 官网链接 ——
-- 所属网络—— 
-- Token Addres ——
-- coingecko 链接 ——
+- 代币符号 —— 
+- 官网链接 —— 
+- 所属网络 —— 
+- Token Addres —— 
+- coingecko 链接 —— 
 
 ## Shill 理由
 
